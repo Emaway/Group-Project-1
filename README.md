@@ -1,6 +1,6 @@
 # Pittsburgh_Crime_project
 
-Dependancies instructions
+Dependancies instructions for Liam's heatmaps
 
 Download and install GDAL-2.4.0.win-amd64-py3.7.msi and gdal-204-1911-x64-core.msi (windows only)
 
